@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "KOTORY"]
+	path = KOTORY
+	url = https://github.com/ebrahimkhaled/kotory
 [submodule "ebrahim.gof"]
 	path = ebrahim.gof
 	url = https://github.com/ebrahimkhaled/ebrahim.gof
